@@ -1,0 +1,5 @@
+C:\Temp\PWASolutions\JiraHelper\bin\Debug\JiraHelper.dll
+C:\Temp\PWASolutions\JiraHelper\bin\Debug\JiraHelper.pdb
+C:\Temp\PWASolutions\JiraHelper\obj\Debug\JiraHelper.dll
+C:\Temp\PWASolutions\JiraHelper\obj\Debug\JiraHelper.pdb
+C:\Temp\PWASolutions\JiraHelper\obj\Debug\JiraHelper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\GMD_Code\TestJira\TestJira\bin\Debug\TestJira.exe.config
+D:\GMD_Code\GMD\JIRAHelper\TestJira\bin\Debug\TestJira.exe.config

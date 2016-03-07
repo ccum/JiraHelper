@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraHelper", "JiraHelper\JiraHelper.csproj", "{4278BE91-3AF5-4EBE-9A1D-557FFF8C7748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewJira", "ViewJira\ViewJira.csproj", "{7396F653-3373-42E8-BC85-5047B4A25530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewJira.Tests", "ViewJira.Tests\ViewJira.Tests.csproj", "{E88DEA06-DB4F-4898-9A9C-8067E2D9CC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4278BE91-3AF5-4EBE-9A1D-557FFF8C7748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4278BE91-3AF5-4EBE-9A1D-557FFF8C7748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4278BE91-3AF5-4EBE-9A1D-557FFF8C7748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4278BE91-3AF5-4EBE-9A1D-557FFF8C7748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7396F653-3373-42E8-BC85-5047B4A25530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7396F653-3373-42E8-BC85-5047B4A25530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7396F653-3373-42E8-BC85-5047B4A25530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7396F653-3373-42E8-BC85-5047B4A25530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88DEA06-DB4F-4898-9A9C-8067E2D9CC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88DEA06-DB4F-4898-9A9C-8067E2D9CC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88DEA06-DB4F-4898-9A9C-8067E2D9CC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88DEA06-DB4F-4898-9A9C-8067E2D9CC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
